@@ -1,0 +1,75 @@
+z
+.less
+z-index: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
+w
+.less
+width: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
+tt
+.less
+text-transform: $[![(lis)uppercase|none|capitalize|lowercase]!];[>END<]!$[FingerTextData FingerTextData]@#
+td
+.less
+text-decoration: $[![(lis)none|underline|line-through]!];[>END<]!$[FingerTextData FingerTextData]@#
+ta
+.less
+text-align: $[![(lis)center|left|right|justify]!];[>END<]!$[FingerTextData FingerTextData]@#
+s
+.less
+$[![elName]!] {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
+r
+.less
+$[![property]!]: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
+pa
+.less
+padding: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
+p
+.less
+position: $[![(lis)relative|absolute|fixed]!];[>END<]!$[FingerTextData FingerTextData]@#
+o
+.less
+overflow: $[![(lis)hidden|visible]!];[>END<]!$[FingerTextData FingerTextData]@#
+ma
+.less
+margin: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
+fv
+.less
+font-variant: $[![(lis)small-caps|normal]!];[>END<]!$[FingerTextData FingerTextData]@#
+f
+.less
+#$[![elName]!] {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
+e
+.less
+.$[![mixin]!]($[![]!]);[>END<]!$[FingerTextData FingerTextData]@#
+di
+.less
+display: block;[>END<]!$[FingerTextData FingerTextData]@#
+d
+.less
+.$[![className]!] {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
+c
+.less
+color: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
+2
+.less
+@$[![variable]!]: $[![value]!];[>END<]!$[FingerTextData FingerTextData]@#
+r
+.js
+$('$[![]!]').$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+f
+.js
+function($[![]!]){
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
+r
+.coffee
+$('$[![]!]')$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+f
+.coffee
+= ($[![]!]) -> 
+	$[![]!][>END<]!$[FingerTextData FingerTextData]@#
