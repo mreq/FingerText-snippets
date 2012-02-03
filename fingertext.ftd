@@ -1,9 +1,44 @@
+g
+Gemfile
+gem '$[![]!]', '$[![]!]'[>END<]!$[FingerTextData FingerTextData]@#
+loremp
+GLOBAL
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec lacus at mauris facilisis tristique. Duis rutrum est nec dolor auctor ornare. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla facilisi. Proin quis enim augue, at tristique mauris. Donec dictum tellus non tellus lobortis sit amet venenatis risus sagittis. Quisque congue laoreet ligula sed feugiat. Sed sed lobortis lacus. Praesent commodo erat tempus lacus aliquam aliquet. Fusce placerat nibh et mi adipiscing condimentum varius ante auctor. Donec enim erat, scelerisque eu rhoncus ac, accumsan in nisl.[>END<]!$[FingerTextData FingerTextData]@#
+lorem
+GLOBAL
+$[![(lis)Lorem ipsum dolor|Sit amet consectetur|Adipiscing elit|Nullam nec lacus|At mauris|Facilisis tristiqu]!][>END<]!$[FingerTextData FingerTextData]@#
+t
+Ext:js
+$(this)[>END<]!$[FingerTextData FingerTextData]@#
+t
+Ext:coffee
+$(this)[>END<]!$[FingerTextData FingerTextData]@#
+vp
+.rb
+validates_presence_of :$[![password]!], :on => :$[![create]!][>END<]!$[FingerTextData FingerTextData]@#
+p
+.rb
+params[:$[![id]!]][>END<]!$[FingerTextData FingerTextData]@#
+match
+.rb
+match '$[![url]!]' => '$[![controller]!]#$[![action]!]'[>END<]!$[FingerTextData FingerTextData]@#
+d
+.rb
+def $[![]!]
+	$[![]!]
+end[>END<]!$[FingerTextData FingerTextData]@#
+c
+.php
+class="$[![]!]"[>END<]!$[FingerTextData FingerTextData]@#
 z
 .less
 z-index: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
 w
 .less
 width: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
+vi
+.less
+visibility: $[![(lis)hidden|visible]!];[>END<]!$[FingerTextData FingerTextData]@#
 tt
 .less
 text-transform: $[![(lis)uppercase|none|capitalize|lowercase]!];[>END<]!$[FingerTextData FingerTextData]@#
@@ -13,14 +48,32 @@ text-decoration: $[![(lis)none|underline|line-through]!];[>END<]!$[FingerTextDat
 ta
 .less
 text-align: $[![(lis)center|left|right|justify]!];[>END<]!$[FingerTextData FingerTextData]@#
+t
+.less
+top: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
 s
 .less
 $[![elName]!] {
 	$[![]!]
 }[>END<]!$[FingerTextData FingerTextData]@#
+ri
+.less
+right: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
 r
 .less
 $[![property]!]: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
+pat
+.less
+padding-top: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
+par
+.less
+padding-right: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
+pal
+.less
+padding-left: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
+pab
+.less
+padding-bottom: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
 pa
 .less
 padding: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
@@ -30,46 +83,161 @@ position: $[![(lis)relative|absolute|fixed]!];[>END<]!$[FingerTextData FingerTex
 o
 .less
 overflow: $[![(lis)hidden|visible]!];[>END<]!$[FingerTextData FingerTextData]@#
+mat
+.less
+margin-top: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
+mar
+.less
+margin-right: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
+mal
+.less
+margin-left: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
+mab
+.less
+margin-bottom: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
 ma
 .less
 margin: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
+l
+.less
+left: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
+fw
+.less
+font-weight: $[![bold]!];[>END<]!$[FingerTextData FingerTextData]@#
 fv
 .less
 font-variant: $[![(lis)small-caps|normal]!];[>END<]!$[FingerTextData FingerTextData]@#
+fs
+.less
+font-style: $[![(lis)italic|normal]!];[>END<]!$[FingerTextData FingerTextData]@#
 f
 .less
 #$[![elName]!] {
 	$[![]!]
 }[>END<]!$[FingerTextData FingerTextData]@#
+ee
+.less
+.$[![bold]!];[>END<]!$[FingerTextData FingerTextData]@#
 e
 .less
 .$[![mixin]!]($[![]!]);[>END<]!$[FingerTextData FingerTextData]@#
 di
 .less
-display: block;[>END<]!$[FingerTextData FingerTextData]@#
+display: block;$[![]!][>END<]!$[FingerTextData FingerTextData]@#
 d
 .less
 .$[![className]!] {
 	$[![]!]
 }[>END<]!$[FingerTextData FingerTextData]@#
+cf
+.less
+.clearfix;$[![]!][>END<]!$[FingerTextData FingerTextData]@#
 c
 .less
 color: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
+bp
+.less
+background-position: $[![0 0]!];[>END<]!$[FingerTextData FingerTextData]@#
+bc
+.less
+background-color: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
+ba
+.less
+background: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
+b
+.less
+bottom: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
 2
 .less
 @$[![variable]!]: $[![value]!];[>END<]!$[FingerTextData FingerTextData]@#
+t
+.js
+$(this)$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+rf
+.js
+return false;$[![]!][>END<]!$[FingerTextData FingerTextData]@#
 r
 .js
 $('$[![]!]').$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+pr
+.js
+preventDefault();$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+onn
+.js
+on('$[![click]!]', '$[![input]!]', function($[![]!]){
+	$[![]!]
+});[>END<]!$[FingerTextData FingerTextData]@#
+on
+.js
+on('$[![click]!]', function($[![]!]){
+	$[![]!]
+});[>END<]!$[FingerTextData FingerTextData]@#
 f
 .js
 function($[![]!]){
 	$[![]!]
 }[>END<]!$[FingerTextData FingerTextData]@#
+dd
+.js
+data('$[![]!]', '$[![]!]')[>END<]!$[FingerTextData FingerTextData]@#
+d
+.js
+data('$[![]!]')[>END<]!$[FingerTextData FingerTextData]@#
+c
+.js
+console.log($[![$(this)]!]);[>END<]!$[FingerTextData FingerTextData]@#
+cc
+.html
+<!-- $[![]!] -->[>END<]!$[FingerTextData FingerTextData]@#
+c
+.html
+class="$[![]!]"[>END<]!$[FingerTextData FingerTextData]@#
+br
+.html
+<br />
+[>END<]!$[FingerTextData FingerTextData]@#
+r
+.erb
+<%= $[![]!] %>[>END<] !$[FingerTextData FingerTextData]@#
+lt
+.erb
+link_to "$[![Home]!]", $[![root_path]!][>END<]!$[FingerTextData FingerTextData]@#
+e
+.erb
+<% $[![]!] %>[>END<] !$[FingerTextData FingerTextData]@#
+t
+.coffee
+$(this)$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+rf
+.coffee
+return false$[![]!][>END<]!$[FingerTextData FingerTextData]@#
 r
 .coffee
 $('$[![]!]')$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+pr
+.coffee
+preventDefault()$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+onn
+.coffee
+on('$[![click]!]', '$[![input]!]', ->
+	$[![]!]
+)[>END<]!$[FingerTextData FingerTextData]@#
+on
+.coffee
+on('$[![click]!]', ->
+	$[![]!]
+)[>END<]!$[FingerTextData FingerTextData]@#
+ff
+.coffee
+-> 
+	$[![]!][>END<]!$[FingerTextData FingerTextData]@#
 f
 .coffee
-= ($[![]!]) -> 
+($[![]!]) -> 
 	$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+dd
+.coffee
+data('$[![]!]', '$[![]!]')[>END<]!$[FingerTextData FingerTextData]@#
+d
+.coffee
+data('$[![]!]')[>END<]!$[FingerTextData FingerTextData]@#
