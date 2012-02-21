@@ -16,17 +16,79 @@ $(this)[>END<]!$[FingerTextData FingerTextData]@#
 vp
 .rb
 validates_presence_of :$[![password]!], :on => :$[![create]!][>END<]!$[FingerTextData FingerTextData]@#
+tw
+.rb
+twitter_bootstrap_form_for(@$[![user]!]) do |f|[>END<]!$[FingerTextData FingerTextData]@#
+r
+.rb
+:$[![]!] => $[![]!][>END<]!$[FingerTextData FingerTextData]@#
 p
 .rb
 params[:$[![id]!]][>END<]!$[FingerTextData FingerTextData]@#
+mj
+.rb
+map(&:$[![name]!]).join("$[![, ]!]")[>END<]!$[FingerTextData FingerTextData]@#
 match
 .rb
-match '$[![url]!]' => '$[![controller]!]#$[![action]!]'[>END<]!$[FingerTextData FingerTextData]@#
+match '$[![]!]' => '$[![]!]#$[![new]!]'[>END<]!$[FingerTextData FingerTextData]@#
+hm
+.rb
+has_many :$[![]!], :through => :$[![]!], :source => :$[![]!][>END<]!$[FingerTextData FingerTextData]@#
 d
 .rb
 def $[![]!]
 	$[![]!]
 end[>END<]!$[FingerTextData FingerTextData]@#
+be
+.rb
+belongs_to :$[![]!], :class_name => "$[![]!]"[>END<]!$[FingerTextData FingerTextData]@#
+at
+.rb
+attr_accessible :$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+ai
+.rb
+add_index :$[![]!], :$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+r
+.rake
+:$[![]!] => $[![]!][>END<]!$[FingerTextData FingerTextData]@#
+w
+.php
+<?php $[![]!] ?>[>END<]!$[FingerTextData FingerTextData]@#
+vd
+.php
+var_dump($[![]!]);[>END<]!$[FingerTextData FingerTextData]@#
+r
+.php
+$$[![this]!]->$[![request]!][>END<]!$[FingerTextData FingerTextData]@#
+pre
+.php
+print '<pre>';
+	$[![]!]
+print '</pre>';[>END<]!$[FingerTextData FingerTextData]@#
+p
+.php
+print "$[![]!]";[>END<]!$[FingerTextData FingerTextData]@#
+gv
+.php
+$this->getVar("$[![]!]")[>END<]!$[FingerTextData FingerTextData]@#
+foreach
+.php
+foreach ($[![]!] as $$[![key]!] => $$[![value]!]) {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
+ee
+.php
+?>
+	$[![]!]
+<?php[>END<]!$[FingerTextData FingerTextData]@#
+e
+.php
+<?php
+	$[![]!]
+?>[>END<]!$[FingerTextData FingerTextData]@#
+cc
+.php
+<!-- $[![]!] -->[>END<]!$[FingerTextData FingerTextData]@#
 c
 .php
 class="$[![]!]"[>END<]!$[FingerTextData FingerTextData]@#
@@ -39,18 +101,38 @@ width: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
 vi
 .less
 visibility: $[![(lis)hidden|visible]!];[>END<]!$[FingerTextData FingerTextData]@#
+ul
+.less
+ul {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
 tt
 .less
 text-transform: $[![(lis)uppercase|none|capitalize|lowercase]!];[>END<]!$[FingerTextData FingerTextData]@#
+to
+.less
+top: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
 td
 .less
 text-decoration: $[![(lis)none|underline|line-through]!];[>END<]!$[FingerTextData FingerTextData]@#
 ta
 .less
 text-align: $[![(lis)center|left|right|justify]!];[>END<]!$[FingerTextData FingerTextData]@#
-t
+strong
 .less
-top: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
+strong {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
+span
+.less
+span {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
+small
+.less
+small {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
 s
 .less
 $[![elName]!] {
@@ -62,45 +144,113 @@ right: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
 r
 .less
 $[![property]!]: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
+q
+.less
+{
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
+po
+.less
+position: $[![(lis)relative|absolute|fixed]!];[>END<]!$[FingerTextData FingerTextData]@#
 pat
 .less
-padding-top: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
+padding-top: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
 par
 .less
-padding-right: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
+padding-right: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
 pal
 .less
-padding-left: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
+padding-left: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
 pab
 .less
-padding-bottom: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
+padding-bottom: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
 pa
 .less
 padding: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
 p
 .less
-position: $[![(lis)relative|absolute|fixed]!];[>END<]!$[FingerTextData FingerTextData]@#
+p {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
 o
 .less
 overflow: $[![(lis)hidden|visible]!];[>END<]!$[FingerTextData FingerTextData]@#
+mw
+.less
+min-width: $[![]!]px;[>END<]!$[FingerTextData FingerTextData]@#
+mh
+.less
+min-height: $[![]!]px;[>END<]!$[FingerTextData FingerTextData]@#
 mat
 .less
-margin-top: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
+margin-top: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
 mar
 .less
-margin-right: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
+margin-right: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
 mal
 .less
-margin-left: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
+margin-left: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
 mab
 .less
-margin-bottom: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
+margin-bottom: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
 ma
 .less
 margin: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
+ls
+.less
+list-style: none;[>END<]!$[FingerTextData FingerTextData]@#
+li
+.less
+li {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
+lh
+.less
+line-height: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
+label
+.less
+label {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
 l
 .less
 left: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
+input
+.less
+input {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
+img
+.less
+img {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
+ib
+.less
+.ib;$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+h4
+.less
+h4 {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
+h3
+.less
+h3 {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
+h2
+.less
+h2 {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
+h1
+.less
+h1 {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
+h
+.less
+height: $[![0]!]px;[>END<]!$[FingerTextData FingerTextData]@#
 fw
 .less
 font-weight: $[![bold]!];[>END<]!$[FingerTextData FingerTextData]@#
@@ -110,6 +260,15 @@ font-variant: $[![(lis)small-caps|normal]!];[>END<]!$[FingerTextData FingerTextD
 fs
 .less
 font-style: $[![(lis)italic|normal]!];[>END<]!$[FingerTextData FingerTextData]@#
+fr
+.less
+float: right;$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+fn
+.less
+float: none;$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+fl
+.less
+float: left;$[![]!][>END<]!$[FingerTextData FingerTextData]@#
 f
 .less
 #$[![elName]!] {
@@ -120,8 +279,19 @@ ee
 .$[![bold]!];[>END<]!$[FingerTextData FingerTextData]@#
 e
 .less
-.$[![mixin]!]($[![]!]);[>END<]!$[FingerTextData FingerTextData]@#
+.$[![sprite]!]($[![]!]);[>END<]!$[FingerTextData FingerTextData]@#
+dn
+.less
+display: none;$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+div
+.less
+div {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
 di
+.less
+display: inline;$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+db
 .less
 display: block;$[![]!][>END<]!$[FingerTextData FingerTextData]@#
 d
@@ -129,6 +299,12 @@ d
 .$[![className]!] {
 	$[![]!]
 }[>END<]!$[FingerTextData FingerTextData]@#
+cu
+.less
+cursor: $[![pointer]!];[>END<]!$[FingerTextData FingerTextData]@#
+cl
+.less
+clear: both;$[![]!][>END<]!$[FingerTextData FingerTextData]@#
 cf
 .less
 .clearfix;$[![]!][>END<]!$[FingerTextData FingerTextData]@#
@@ -147,6 +323,11 @@ background: $[![]!];[>END<]!$[FingerTextData FingerTextData]@#
 b
 .less
 bottom: $[![0]!];[>END<]!$[FingerTextData FingerTextData]@#
+a
+.less
+a {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
 2
 .less
 @$[![variable]!]: $[![value]!];[>END<]!$[FingerTextData FingerTextData]@#
@@ -172,11 +353,26 @@ on
 on('$[![click]!]', function($[![]!]){
 	$[![]!]
 });[>END<]!$[FingerTextData FingerTextData]@#
+ife
+.js
+if ($[![]!]) {
+	$[![]!]
+} else {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
+if
+.js
+if ($[![]!]) {
+	$[![]!]
+}[>END<]!$[FingerTextData FingerTextData]@#
 f
 .js
 function($[![]!]){
 	$[![]!]
 }[>END<]!$[FingerTextData FingerTextData]@#
+e
+.js
+.$[![find]!]('$[![]!]')[>END<]!$[FingerTextData FingerTextData]@#
 dd
 .js
 data('$[![]!]', '$[![]!]')[>END<]!$[FingerTextData FingerTextData]@#
@@ -196,15 +392,27 @@ br
 .html
 <br />
 [>END<]!$[FingerTextData FingerTextData]@#
+tw
+.erb
+twitter_bootstrap_form_for(@$[![user]!]) do |f|[>END<]!$[FingerTextData FingerTextData]@#
+select
+.erb
+<%= f.select :$[![]!], "$[![]!]", options_from_collection_for_select($[![]!], "id", "$[![]!]"), {}, { :class => "chzn-select", "data-placeholder" => "$[![]!]" } %>[>END<]!$[FingerTextData FingerTextData]@#
 r
 .erb
 <%= $[![]!] %>[>END<] !$[FingerTextData FingerTextData]@#
 lt
 .erb
 link_to "$[![Home]!]", $[![root_path]!][>END<]!$[FingerTextData FingerTextData]@#
+end
+.erb
+<% end %>$[![]!][>END<]!$[FingerTextData FingerTextData]@#
 e
 .erb
 <% $[![]!] %>[>END<] !$[FingerTextData FingerTextData]@#
+d
+.erb
+:$[![class]!] => "$[![]!]"[>END<]!$[FingerTextData FingerTextData]@#
 t
 .coffee
 $(this)$[![]!][>END<]!$[FingerTextData FingerTextData]@#
@@ -235,9 +443,15 @@ f
 .coffee
 ($[![]!]) -> 
 	$[![]!][>END<]!$[FingerTextData FingerTextData]@#
+e
+.coffee
+.$[![find]!]('$[![]!]')[>END<]!$[FingerTextData FingerTextData]@#
 dd
 .coffee
 data('$[![]!]', '$[![]!]')[>END<]!$[FingerTextData FingerTextData]@#
 d
 .coffee
 data('$[![]!]')[>END<]!$[FingerTextData FingerTextData]@#
+c
+.coffee
+console.log $[![$(this)]!][>END<]!$[FingerTextData FingerTextData]@#
